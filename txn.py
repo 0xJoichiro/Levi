@@ -3,7 +3,7 @@ import json
 from web3.datastructures import AttributeDict
 
 # Connect to the Infura RPC URL
-web3 = Web3(Web3.HTTPProvider('https://eth-mainnet.g.alchemy.com/v2/1Fqrvju7DLrHM1TmU2ZvLcZ8cH9X2ph8'))
+web3 = Web3(Web3.HTTPProvider('https://eth-mainnet.g.alchemy.com/v2/'))
 
 # 2306
 # Initialize variables
