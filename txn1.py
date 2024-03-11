@@ -7,8 +7,8 @@ web3 = Web3(Web3.HTTPProvider('https://eth-mainnet.g.alchemy.com/v2/'))
 
 # 2306
 # Initialize variables
-start_block = 11000
-end_block = start_block + 89000
+start_block = 100000
+end_block = start_block + 100000
 # end_block = web3.eth.block_number
 blocks = {}
 
